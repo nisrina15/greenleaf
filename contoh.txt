@@ -1,0 +1,5 @@
+void set up(){
+pinMode(5, INPUT);
+}
+
+void loop 
